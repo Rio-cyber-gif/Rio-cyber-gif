@@ -1,4 +1,4 @@
-# [Rio] | Apprentice Developer
+# Rio | Apprentice Developer
 
 ## 🖋️ Philosophy: The Aesthetics of Subtraction
 **「引き算の美学」に基づいた、ノイズのない実装を。**
