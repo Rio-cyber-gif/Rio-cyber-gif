@@ -2,7 +2,7 @@
 
 ## 🖋️ Philosophy: The Aesthetics of Subtraction
 **「引き算の美学」に基づいた、ノイズのない実装を。**
-私はデザインの専門家ではありませんが、ロジックに基づいたUI/UXの構築を追求しています。1pxのラインやカラーコードの整合性にこだわり、ユーザーの集中を妨げない「誠実なミニマリズム」を目指しています。
+私は、ロジックに基づいたUI/UXの構築を追求しています。1pxのラインやカラーコードの整合性にこだわり、ユーザーの集中を妨げない「誠実なミニマリズム」を目指しています。
 
 **Logic-driven minimalism without visual noise.**
 I am an apprentice developer focusing on technical UI/UX implementation. I value the precision of logic over excessive decoration, striving for "sincere minimalism" that respects user focus and system integrity.
