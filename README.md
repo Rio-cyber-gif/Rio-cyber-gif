@@ -11,6 +11,7 @@
 * **Tool:** `Claude Code` / `Antigravity`
 
 ### Projects
+* **Specialty Sweets Journal** - A platform for documenting regional Japanese confections.
 * **Akatsuki** - Zero-asset morning routine app built with CSS logic.
 * **Zen-Goku** - AI mental conditioning platform (Gemini API).
 
