@@ -1,3 +1,5 @@
+<img src="rio.png" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
+
 # Rio | Apprentice Developer
 
 ## Philosophy: The Aesthetics of Subtraction
