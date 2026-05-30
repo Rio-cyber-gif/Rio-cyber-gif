@@ -12,8 +12,7 @@
 
 ### Projects
 * **Specialty Sweets Journal** - A platform for documenting regional Japanese confections.
-* **Akatsuki** - Zero-asset morning routine app built with CSS logic.
-* **Zen-Goku** - AI mental conditioning platform (Gemini API).
+* **Magic Recipe Logical** - A logical recipe generator based on engineering metaphors.
 
 ### Routine
 **Extreme Lark** (04:45 AM - 06:00 AM)
