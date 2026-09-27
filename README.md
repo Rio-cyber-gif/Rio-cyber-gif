@@ -8,7 +8,7 @@
 ### Technical Stack
 * **Core:** `Ruby on Rails` / `React` / `Tailwind CSS` (#0a0a0a)
 * **Cloud:** `AWS` (CLP / SAA / SCS Study)
-* **Tool:** `Claude Code` / `Antigravity`
+* **Tool:** `Claude Code`
 
 ### Projects
 * **Specialty Sweets Journal** - A platform for documenting regional Japanese confections.
