@@ -1,9 +1,14 @@
 <img src="rio.png" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
 
-> **Aesthetics of Subtraction**
-> 「引き算の美学」に基づいた、誠実なミニマリズムを。
+> **Early mornings, clean commits.**
 
 ---
+
+### About
+Full-stack developer working with Ruby on Rails, React, and Tailwind CSS.
+Currently deepening my cloud skills toward AWS SAA / SCS certification.
+Most of my focused coding happens between 4:45–6:00 AM, before the day
+starts — I build small, opinionated tools rather than broad platforms.
 
 ### Technical Stack
 * **Core:** `Ruby on Rails` / `React` / `Tailwind CSS` (#0a0a0a)
@@ -13,9 +18,5 @@
 ### Projects
 * **Specialty Sweets Journal** - A platform for documenting regional Japanese confections.
 * **Magic Recipe Logical** - A logical recipe generator based on engineering metaphors.
-
-### Routine
-**Extreme Lark** (04:45 AM - 06:00 AM)
-静寂の中でのリファクタリングと、GitHubへの継続的なコントリビューションを日課としています。
 
 ---
